@@ -74,7 +74,6 @@
 ## Portfolio:
 - [C# AutoPlay Mudae Bot](https://github.com/AleCJunior/CSMudaeBot)
 - [Python Snake Game](https://github.com/AleCJunior/Snake)
-- 
 ###
 
 <div align="left">
