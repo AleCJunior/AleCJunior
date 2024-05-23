@@ -20,7 +20,7 @@
 
 ---
 
-<img align="right" height="130" src="https://media.tenor.com/eT6YbPl_OoEAAAAM/gojo-gojo-satoru.gif"/>
+<img align="right" width="23%" src="https://media.tenor.com/eT6YbPl_OoEAAAAM/gojo-gojo-satoru.gif"/>
 
 <!-- Links -->
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=ale53campos@gmail.com)
