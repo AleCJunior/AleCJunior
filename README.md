@@ -65,4 +65,8 @@
   <img height="100%" src="https://i.pinimg.com/originals/74/5c/c9/745cc90fcc688569610f84bc5d2b2fd6.gif"  />
 </div>
 
-###
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alecjunior.alecjunior&"  />
+</div>
