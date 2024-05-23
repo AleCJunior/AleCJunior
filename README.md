@@ -18,35 +18,20 @@
   - ⚡ In my spare time, I relish drawing, indulging in manga, and gaming with friends. I also enjoy automating processes for games that I play. \o/
 </details>
 
-###
+---
 
-<img align="right" height="100" src="https://media.tenor.com/eT6YbPl_OoEAAAAM/gojo-gojo-satoru.gif"  />
+<img align="right" height="130" src="https://media.tenor.com/eT6YbPl_OoEAAAAM/gojo-gojo-satoru.gif"/>
 
-<div align="left">
-  <a href="https://www.youtube.com/channel/UC04cud5Nlx2-Gg-FdPPt0yQ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/alex.camposj/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ale53campos@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <br>
-  <a href="https://discord.com/channels/@me/?addFriendInput__12af4=@ale.campos" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=ale.campos&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/alexandre-campos-7a77421a1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-    <a href="https://wa.me/14385319974" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
+<!-- Links -->
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=ale53campos@gmail.com)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC04cud5Nlx2-Gg-FdPPt0yQ)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alex.camposj/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-campos-7a77421a1/)
+[![Discord](https://img.shields.io/static/v1?message=ale.campos&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/channels/@me/?addFriendInput__12af4=@ale.campos)
 
-<h2 align="left"></h2>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21e2gm3tad55bdhandrlm7c4a&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
-###
+---
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=alecjunior&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
