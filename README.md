@@ -29,7 +29,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-campos-7a77421a1/)
 [![Discord](https://img.shields.io/static/v1?message=ale.campos&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/channels/@me/?addFriendInput__12af4=@ale.campos)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21e2gm3tad55bdhandrlm7c4a&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21e2gm3tad55bdhandrlm7c4a&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/playlist/1TGdXWXP1R5oxLRy0iptj7)
 
 ---
 
