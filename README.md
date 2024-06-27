@@ -20,16 +20,12 @@
 
 ---
 
-<img align="right" width="23%" src="https://media.tenor.com/eT6YbPl_OoEAAAAM/gojo-gojo-satoru.gif"/>
-
 <!-- Links -->
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=ale53campos@gmail.com)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC04cud5Nlx2-Gg-FdPPt0yQ)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alex.camposj/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-campos-7a77421a1/)
 [![Discord](https://img.shields.io/static/v1?message=ale.campos&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/channels/@me/?addFriendInput__12af4=@ale.campos)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21e2gm3tad55bdhandrlm7c4a&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/playlist/1TGdXWXP1R5oxLRy0iptj7)
 
 ---
 
